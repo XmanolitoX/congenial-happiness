@@ -1,4 +1,4 @@
-nombre="manuel
+nombre="manuel"
 numero=3
 booleano=True
 booleano=False
